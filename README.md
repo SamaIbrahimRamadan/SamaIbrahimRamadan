@@ -2,7 +2,7 @@
 
 ### I'm passionate about mobile app development using Flutter. Here are some of the languages, tools, and platforms I work with:
 
-<img src="https://miro.medium.com/v2/resize:fit:600/1*c5SC76t7hfQM_g3JsFhFLQ.gif" width="290" align="right">
+<img src="https://user-images.githubusercontent.com/74038190h/221352982-8db913c4-1ba0-4674-9fb7-cc2cd71b0443.gif" width="290" align="right">
 
 ## Languages and Tools
 
